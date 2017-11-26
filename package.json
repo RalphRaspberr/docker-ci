@@ -1,0 +1,15 @@
+{
+  "name": "hello-pluralsighters",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Docker CI test",
+  "main": "app.js",
+  "author": "Rafał Malin <malin603@gmail.com>",
+  "license": "None",
+  "dependencies": {
+    "express": "3.2.4",
+    "jade": "1.11.0",
+    "mocha": "1.20.1",
+    "supertest": "1.1.0"
+  }
+}
